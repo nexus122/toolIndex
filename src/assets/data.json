@@ -1,0 +1,202 @@
+[
+    {
+        "sectionTitle": "🧠 Proyectos",
+        "links": [
+            {
+                "title": "Toma apuntes con grafos",
+                "description": "Toma apuntes con grafos",
+                "url": "https://grafo-angular.vercel.app"
+            },
+            {
+                "title": "Todo list con signals",
+                "description": "Todo list con signals",
+                "url": "https://todolist-two-blue.vercel.app"
+            },
+            {
+                "title": "Recordadora de enlaces",
+                "description": "",
+                "url": "https://recordadora-de-enlaces.vercel.app/home"
+            }
+        ]
+    },
+    {
+        "sectionTitle": "💻 Programación",
+        "links": [
+            {
+                "title": "Github",
+                "description": "Repositorio de proyectos",
+                "url": "https://github.com"
+            },
+            {
+                "title": "Angular",
+                "description": "Framework web",
+                "url": "https://angular.dev"
+            },
+            {
+                "title": "Astro",
+                "description": "Framework web",
+                "url": "https://astro.build"
+            },
+            {
+                "title": "Patrones de diseño",
+                "description": "Patrones de diseño",
+                "url": "https://refactoring.guru/es"
+            },
+            {
+                "title": "PageSpeed",
+                "description": "Medir velocidad de carga",
+                "url": "https://pagespeed.web.dev"
+            }
+        ]
+    },
+    {
+        "sectionTitle": "🎨 Herramientas CSS",
+        "links": [
+            {
+                "title": "Tailwind",
+                "description": "Framework CSS",
+                "url": "https://tailwindcss.com"
+            },
+            {
+                "title": "Daisyui",
+                "description": "Componentes CSS",
+                "url": "https://daisyui.com"
+            },
+            {
+                "title": "Tailwind Animation",
+                "description": "Animaciónes con Tailwind",
+                "url": "https://tailwindcss-animations.vercel.app"
+            },
+            {
+                "title": "Bootstrap",
+                "description": "Framework CSS",
+                "url": "https://getbootstrap.com"
+            },
+            {
+                "title": "Atropos",
+                "description": "Librería de scroll horizontal y vertical",
+                "url": "https://atroposjs.com"
+            },
+            {
+                "title": "PicoCSS",
+                "description": "CSS minimalista",
+                "url": "https://picocss.com"
+            },
+            {
+                "title": "Patrones como fondo",
+                "description": "Fondos para web con patrones",
+                "url": "https://bg.ibelick.com"
+            },
+            {
+                "title": "Tools Design",
+                "description": "Recursos de diseño",
+                "url": "https://www.toools.design"
+            }
+        ]
+    },
+    {
+        "sectionTitle": "🕸️ Herramientas Web",
+        "links": [
+            {
+                "title": "Capturas de pantalla",
+                "description": "Capturas de pantalla",
+                "url": "https://screenshot.rocks/app"
+            },
+            {
+                "title": "Pizarra Online",
+                "description": "Pizarra Online",
+                "url": "https://excalidraw.com"
+            },
+            {
+                "title": "Canva",
+                "description": "Diseño gráfico",
+                "url": "https://www.canva.com"
+            },
+            {
+                "title": "Corregir Textos",
+                "description": "Correción gramatical en español",
+                "url": "https://www.spellboy.com/corrector-gramatical/"
+            }
+        ]
+    },
+    {
+        "sectionTitle": "🃏 Herramientas de Productividad",
+        "links": [
+            {
+                "title": "Notion",
+                "description": "Organización",
+                "url": "https://www.notion.so"
+            },
+            {
+                "title": "Trello",
+                "description": "Organización",
+                "url": "https://trello.com"
+            },
+            {
+                "title": "Google Keep",
+                "description": "Notas",
+                "url": "https://keep.google.com"
+            }
+        ]
+    },
+    {
+        "sectionTitle": "📚 Libros",
+        "links": [
+            {
+                "title": "Bajar libros de internet",
+                "description": "Bajar libros de internet",
+                "url": "https://archive.org/about/jobs.php"
+            }
+        ]
+    },
+    {
+        "sectionTitle": "Webs Interesantes",
+        "links": [
+            {
+                "title": "Product Hunt",
+                "description": "Web donde se lanzan productos nuevos",
+                "url": "https://www.producthunt.com"
+            }
+        ]
+    },
+    {
+        "sectionTitle": "🤖 IAs",
+        "links": [
+            {
+                "title": "Perplexity",
+                "description": "",
+                "url": "https://www.perplexity.ai"
+            },
+            {
+                "title": "Chat GPT",
+                "description": "",
+                "url": "https://chat.openai.com"
+            },
+            {
+                "title": "Gemini",
+                "description": "IA de google",
+                "url": "https://www.geminiapp.ai"
+            },
+            {
+                "title": "Leonardo AI",
+                "description": "IA de generación de imágenes",
+                "url": "https://app.leonardo.ai/auth/login"
+            },
+            {
+                "title": "Deepl",
+                "description": "Traductor IA",
+                "url": "https://www.deepl.com/translator"
+            }
+        ]
+    },
+    {
+        "sectionTitle": "🎧 Música",
+        "links": [
+            {
+                "title": "Pipa vs ponk",
+                "description": "Musica que no quiero perder",
+                "url": "https://www.youtube.com/watch?v=Oh5m1rddaW0"
+            }
+        ]
+    }
+]
