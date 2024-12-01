@@ -46,6 +46,11 @@
                 "title": "PageSpeed",
                 "description": "Medir velocidad de carga",
                 "url": "https://pagespeed.web.dev"
+            },
+            {
+                "title": "UV Canvas",
+                "description": "Fondos animados para web",
+                "url": "https://uvcanvas.com"
             }
         ]
     },
@@ -186,6 +191,11 @@
                 "title": "Deepl",
                 "description": "Traductor IA",
                 "url": "https://www.deepl.com/translator"
+            },
+            {
+                "title": "Endless io",
+                "description": "IA que permite unir varias IAs para hacer cosas",
+                "url": "https://app.endless.io"
             }
         ]
     },
